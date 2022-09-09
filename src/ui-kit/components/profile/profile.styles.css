@@ -1,0 +1,17 @@
+.profile-section {
+	display: flex;
+	align-items: center;
+	padding: 0 10px;
+}
+
+.profile-section > img {
+	height: 45px;
+	width: 45px;
+	border-radius: 100%;
+	border: solid 1px lightgrey;
+	margin: 0 10px;
+}
+
+.profile-section > span {
+	font-size: 18px;
+}

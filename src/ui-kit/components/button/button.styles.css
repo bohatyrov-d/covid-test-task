@@ -1,0 +1,16 @@
+.button {
+	background: transparent;
+	outline: none;
+	color: #0170fe;
+	border: solid 1px #0170fe;
+	border-radius: 5px;
+	font-size: 16px;
+	padding: 7px 10px;
+	cursor: pointer;
+	width: 100%;
+}
+
+.button:hover {
+	color: white;
+	background: #0170fe;
+}

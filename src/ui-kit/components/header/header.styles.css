@@ -1,0 +1,20 @@
+.floating-header {
+	width: 100%;
+	position: fixed;
+	background: white;
+	z-index: 1;
+}
+
+.header {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 10px;
+	min-height: 47px;
+}
+
+.shadow {
+	-webkit-box-shadow: 0 14px 15px -17px rgba(0,0,0,0.78);
+	-moz-box-shadow: 0 14px 15px -17px rgba(0,0,0,0.78);
+	box-shadow: 0 14px 15px -17px rgba(0,0,0,0.78);
+}
